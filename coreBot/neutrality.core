@@ -1,0 +1,10 @@
+[values]
+maxval=2
+
+[received]
+cor[0]=hello
+cor[1]=hi
+
+[response]
+cor[0]=Hi there :D
+cor[1]=Hi there :D

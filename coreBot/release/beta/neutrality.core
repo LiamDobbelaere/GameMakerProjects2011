@@ -1,0 +1,26 @@
+[values]
+maxval=10
+
+[received]
+cor[0]=im fine
+cor[1]=im happy
+cor[2]=im good
+cor[3]=hey
+cor[4]=Hi
+cor[5]=how are you
+cor[6]=howre you
+cor[7]=bye
+cor[8]=cya
+cor[9]=darnit
+
+[response]
+cor[0]=Good! :)
+cor[1]=Good! :)
+cor[2]=Good! :)
+cor[3]=Hi there :)
+cor[4]=Hey there! :)
+cor[5]=I'm always fine, thanks :)
+cor[6]=I'm always fine, thanks :)
+cor[7]=Bye!
+cor[8]=Bye!
+cor[9]=Better luck next time.

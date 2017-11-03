@@ -1,0 +1,8 @@
+lcd_data(0b00000011);
+lcd_data(0b00000100);
+lcd_data(0b00001000);
+lcd_data(0b00001000);
+lcd_data(0b00001000);
+lcd_data(0b00010011);
+lcd_data(0b00010011);
+lcd_data(0b00010000);
